@@ -1,0 +1,69 @@
+# ── Ambiente Virtual ───────────────────────────────────────────
+.venv/
+venv/
+env/
+.pyenv/
+*.egg-info/
+dist/
+build/
+
+# ── Python ─────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+
+# ── Jupyter Notebook ───────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# ── Datasets ───────────────────────────────────────────────────
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.zip
+*.tar.gz
+*.gz
+
+# ── Modelos salvos ─────────────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+
+# ── VSCode ─────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ── Configurações locais ───────────────────────────────────────
+.python-version
+
+# ── Sistema Operacional ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs e temporários ─────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ── Variáveis de ambiente ──────────────────────────────────────
+.env
+.env.*
+*.env
+
+# ── Outputs e relatórios ───────────────────────────────────────
+output/
+outputs/
+reports/

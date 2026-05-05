@@ -1,0 +1,64 @@
+# requirements.txt atualizado para Python 3.14.2
+# Gerado a partir do original de 2019
+
+# ── Core Data Science ──────────────────────────────────────────
+numpy>=2.1
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+xgboost>=2.1
+boruta>=0.3
+
+# ── Visualização ───────────────────────────────────────────────
+matplotlib>=3.9
+seaborn>=0.13
+cycler>=0.12
+
+# ── Jupyter ────────────────────────────────────────────────────
+jupyter>=1.1
+notebook>=7.2
+ipython>=8.26
+ipykernel>=6.29
+ipywidgets>=8.1
+jupyter-client>=8.6
+jupyter-console>=6.6
+jupyter-contrib-nbextensions>=0.7
+jupyter-nbextensions-configurator>=0.6
+
+# ── Flask / Web ────────────────────────────────────────────────
+Flask>=3.0
+Werkzeug>=3.0
+itsdangerous>=2.2
+Jinja2>=3.1
+click>=8.1
+
+# ── Utilitários ────────────────────────────────────────────────
+requests>=2.32
+certifi>=2024.1
+urllib3>=2.2
+python-dateutil>=2.9
+pytz>=2024.1
+PyYAML>=6.0
+joblib>=1.4
+six>=1.16
+tabulate>=0.9
+lxml>=5.2
+inflection>=0.5
+
+# ── Formatação / Serialização ──────────────────────────────────
+jsonschema>=4.23
+nbformat>=5.10
+nbconvert>=7.16
+bleach>=6.1
+MarkupSafe>=2.1
+mistune>=3.0
+pandocfilters>=1.5
+webencodings>=0.5.1
+
+# ── Outros ─────────────────────────────────────────────────────
+Send2Trash>=1.8
+prometheus-client>=0.20
+pyzmq>=26.0
+tornado>=6.4
+traitlets>=5.14
+importlib-metadata>=8.0
