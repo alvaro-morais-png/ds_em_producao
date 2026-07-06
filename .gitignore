@@ -23,6 +23,8 @@ __pycache__/
 # ── Datasets ───────────────────────────────────────────────────
 datasets/
 *.csv
+!store.csv
+!test.csv
 *.xlsx
 *.xls
 *.parquet
