@@ -1,6 +1,10 @@
-# 🛒 Projeto de Previsão de Vendas de Lojas
+# 🛒 Projeto de Previsão de Vendas da rede de Farmácias Rossmann
 
-Bem-vindo ao projeto de Previsão de Vendas de Lojas! Este repositório contém um pipeline completo de Ciência de Dados com o objetivo de prever as vendas diárias de uma rede de lojas.
+Bem-vindo ao projeto de Previsão de Vendas Rossmann! Este repositório contém um pipeline completo de Ciência de Dados com o objetivo de prever as vendas diárias da rede de farmácias Rossmann.
+A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes das lojas Rossmann são responsáveis ​​por prever as vendas diárias com até seis semanas de antecedência. As vendas das lojas são influenciadas por diversos fatores, incluindo promoções, concorrência, feriados escolares e estaduais, sazonalidade e localização. Com milhares de gerentes fazendo previsões com base em suas circunstâncias específicas, a precisão dos resultados pode variar bastante.
+
+## Desafio
+Prever as vendas diárias de 1.115 lojas espalhadas pela Alemanha ao longo de um período de 6 semanas. Previsões de vendas confiáveis ​​permitem que os gerentes criem escalas de equipe eficientes, aumentando a produtividade e a motivação.
 
 ## 📌 Visão Geral do Projeto
 O objetivo deste projeto é construir um modelo de Machine Learning robusto capaz de prever as vendas das lojas com base em dados históricos. Previsões de vendas precisas permitem uma melhor gestão de estoque, alocação de recursos e estratégia geral de negócios.
